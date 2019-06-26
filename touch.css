@@ -1,0 +1,38 @@
+
+	* {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font: 13px Helvetica, Arial;
+        }
+		
+		textarea {
+            padding: 3px;
+            position: fixed;
+            bottom: 0;
+            width: 90%;
+        }
+
+        button {
+            width: 10%;
+			height: 10%
+            background: rgb(130, 224, 255);
+            padding: 10px;
+			position: fixed;
+            bottom: 0;
+            margin-left: 90%;
+        }
+		select{
+			width: 100%;
+			position: fixed;
+			
+		}
+		p{
+			list-style-type: none;
+            margin: 0;
+            padding: 0;
+		}
+	
